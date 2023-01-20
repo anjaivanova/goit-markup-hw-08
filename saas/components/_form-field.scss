@@ -8,6 +8,14 @@
 		margin-bottom: 4px;
 		font-size: 12px;
 		line-height: 1.166;
+
+		@media (min-width: 1400px) {
+			font-size: 14px;
+			line-height: 1.71;
+			letter-spacing: 0.03em;
+		}
+
+	
 	}
 	&__input {
 		height: 40px;

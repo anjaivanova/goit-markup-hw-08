@@ -378,7 +378,7 @@ a, button {
 
 .checkbox__icon {
   position: absolute;
-  margin: 4px 8px 0 0;
+  margin: 2px 2px 0 0;
   width: 16px;
   height: 15px;
   fill: transparent;
@@ -893,6 +893,13 @@ a, button {
   margin-bottom: 4px;
   font-size: 12px;
   line-height: 1.166;
+}
+@media (min-width: 1400px) {
+  .form-field__label {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+  }
 }
 .form-field__input {
   height: 40px;
