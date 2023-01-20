@@ -398,7 +398,7 @@ a, button {
 }
 
 .checkbox__link {
-  color: var(--accent-color);
+  color: var(--color-addition);
   -webkit-text-decoration-skip-ink: none;
           text-decoration-skip-ink: none;
 }
