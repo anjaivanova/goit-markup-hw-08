@@ -962,6 +962,7 @@ a, button {
 }
 .form-field__checkbox {
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .header {
