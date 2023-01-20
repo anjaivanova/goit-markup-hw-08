@@ -20,7 +20,7 @@
 				border: 1px solid var(--color-addition);
 			}
 	}
-	&_input:focus+&__icon {
+	&__input:focus+&__icon {
 		fill: var(--color-addition);
 	}
 	&__icon {
