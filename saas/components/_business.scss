@@ -48,7 +48,7 @@
 		}
 	}
 
-	@media screen and (min-width:961px) {
+	@media screen and (min-width:1200px) {
 		max-width: 1600px;
 		min-height: 600px;
 		padding: 200px 0;
@@ -75,13 +75,15 @@
 		margin-bottom: 30px;
 		font-weight: 900;
 		font-size: 26px;
-		line-height: 1.363;
+		line-height: 1.62;
 		text-align: center;
 		letter-spacing: 0.06em;
 		text-transform: uppercase;
 		color: var(--secondary-color);
+		
 		@media (min-width: 1200px) {
 			font-size: 44px;
+			line-height: 1.36;
 		}
 	}
 }
